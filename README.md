@@ -9,7 +9,11 @@ npm install
 node bundler.js
 ```
 
-### ADDitional links
+### Additional links
 
 - [MiniPack](https://github.com/ronami/minipack)
 - [Build Your Own Webpack](https://www.youtube.com/watch?v=Gc9-7PBqOC8&list=LLHK1mTHpwrUeYgF5gu-Kd4g&ab_channel=YouGottaLoveFrontend)
+
+### License
+
+Linpack is ISC license.
